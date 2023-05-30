@@ -1,0 +1,40 @@
+body{
+    background-color:black;
+    
+}
+main{
+    display: flex;
+    flex-wrap: nowrap;
+}
+#one{
+
+    margin: 5%;
+    padding-left: 5px;
+    padding-top: 10px;
+    width: 60%;
+    height: 100%;
+}
+#two{
+    margin:5%;
+    padding: 0%;
+
+    
+}
+h1{
+    font-size: 75px;
+    color:white;
+}
+.a{
+    font-size: 30px;
+    color: white;
+}
+p{
+    color: white;
+}
+.button{
+    border-radius: 2%;
+    border:2px black solid;
+    background-color:white;
+    height:50px;
+    width: 150px;
+}
