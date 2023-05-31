@@ -1,0 +1,21 @@
+body{
+    background-color:black;
+}
+h1{
+    color:white;
+}
+p{
+    color:white;
+}
+.main{
+    display:flex;
+}
+.left{
+    width: 50%;
+    height: 100%;
+    padding:40%;
+}
+.right{
+    width:50%;
+    height:100%;
+}
